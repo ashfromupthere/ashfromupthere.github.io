@@ -1,0 +1,13 @@
+@mixin colors($scheme: default) {
+  @if $scheme == dark {
+    :root {
+      --color-bg: #0b0b0b;
+      --color-fg: #f6f8fa;
+    }
+  } @else {
+    :root {
+      --color-bg: #ffffff;
+      --color-fg: #222222;
+    }
+  }
+}
