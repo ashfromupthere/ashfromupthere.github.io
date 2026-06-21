@@ -1,4 +1,5 @@
-remote_theme: BDHU/minimalist@039feef05c3e77eb06e62a409212f5e13baab2f6
+remote_theme: BDHU/minimalist
+color_scheme: dark
 
 logo: /images/pfp.png
 favicon: true
