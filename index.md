@@ -27,5 +27,6 @@ layout: default
 *To Note:*
 - I don't believe in "separating the art from the artist"
 - I rate entirely based on personal merit, my attachment and enjoyment
-- If an album is marked as listened but not rated, it is likely that I haven't given it my full attention
+- If an album is marked as listened but not rated, it is likely that I haven't given it my full attention  
+
 <small>Thanks to [MrSpaceIsCool](https://www.albumoftheyear.org/user/mrspaceiscool/) for the site inspiration, and [Nef](https://www.albumoftheyear.org/user/nef/) for rating distribution inspiration</small>
